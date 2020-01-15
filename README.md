@@ -1,4 +1,5 @@
-# Yelp-Dataset-Review-Rating-Prediction (See FinalReport.pdf for detailed description.)
+# Yelp-Dataset-Review-Rating-Prediction 
+### See FinalReport.pdf for detailed description.
 
  Oversampled minority classes using SMOTE to produce class-balanced data.
 
